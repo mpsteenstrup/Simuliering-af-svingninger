@@ -1,0 +1,1 @@
+# Simuliering-af-svingninger
